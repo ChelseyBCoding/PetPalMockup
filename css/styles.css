@@ -62,10 +62,14 @@ p{
    font-size: 16pt;
   line-height: 125%;
 }
-h1, h2, h3{
+h1, h2{
   margin-bottom: 8px;
 }
-h3{ margin-top: 400px;}
+h3 { 
+	 position: relative; 
+	top: 15px;
+	left: 150px;
+}
 
 .socialMedia svg{
  margin-right: 50px;
