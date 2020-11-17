@@ -156,19 +156,19 @@ footer a:hover{
 }
 .petImage1{
   grid-area:image1;
-  padding:0px 25px;
+  padding:25px 25px;
 }
 .petImage2{
   grid-area:image2;
-  padding:0px 25px;
+  padding:25px 25px;
 }
 .petImage3{
   grid-area:image3;
-  padding:0px 25px;
+  padding:25px 25px;
 }
 .petImage4{
   grid-area:image4;
-  padding:0px 25px;
+  padding:25px 25px;
 }
 .adoptContainer h3{
   font-size:2.5em;
