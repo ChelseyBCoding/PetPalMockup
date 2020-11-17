@@ -186,8 +186,7 @@ footer a:hover{
 'lists lists'
 'footer footer';
 overflow:hidden;
-justify-content:center;
-  align-content:center;
+
 }
 .wishMessage{
   grid-area:text;
