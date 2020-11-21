@@ -12,9 +12,9 @@ html *{
   margin-left:auto;
   background-color:#ebeef2;
 }
-img{
-  width:auto;
-  height:auto;
+img{.responsive {
+  width: 100%;
+  height: auto;
 	background-color: lightgray;
 }
 header{
@@ -84,6 +84,7 @@ footer{
   background-color:#223A59;
   padding-top:0px;
   color:#F2A679;
+	width: 100%
 }
 
 footer p{
