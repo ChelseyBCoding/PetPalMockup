@@ -12,8 +12,7 @@ html *{
   margin-left:auto;
   background-color:#ebeef2;
 }
-img{.responsive {
-  width: 100%;
+img{ width: 100%;
   height: auto;
 	background-color: lightgray;
 }
@@ -162,6 +161,7 @@ footer a:hover{
 .petImage2{
   grid-area:image2;
   padding:25px 25px;
+	
 }
 .petImage3{
   grid-area:image3;
